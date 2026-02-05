@@ -1,0 +1,5 @@
+requests==2.31.0
+python-dotenv==1.0.0
+colorama==0.4.6
+web3==6.15.1
+eth-account==0.10.0
